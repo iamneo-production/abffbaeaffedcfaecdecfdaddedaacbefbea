@@ -1,3 +1,2 @@
-cd /home/coder
-mkdir folder1
-touch file1.text
+mkdir ~/myfolder
+touch ~/myfolder/myfile.txt
